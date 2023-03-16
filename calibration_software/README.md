@@ -1,4 +1,4 @@
-``Calibration code to train DFT database to develop potential. ``
+### Calibration code to train DFT database to develop potential.
 
 - `Please check submit.sh for running in parallel enviornment`
 
